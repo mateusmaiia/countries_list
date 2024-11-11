@@ -46,7 +46,7 @@ Styled Components are used to deliver a responsive and modern design. Skeleton l
 
 ## Repositories
 - **Frontend**: [Frontend Repository URL](https://github.com/mateusmaiia/countries_list)
-- **Backend**: [Backend Repository URL](https://countrieslistbackend-production.up.railway.app/)
+- **Backend**: [Backend Repository URL](https://github.com/mateusmaiia/countries_list_backend)
 
 ## API Documentation
 - **Country List API**: [Nager.Date API Documentation](https://date.nager.at/swagger/index.html)
