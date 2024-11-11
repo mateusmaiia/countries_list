@@ -45,8 +45,8 @@ This project is a full-stack web application providing a list of countries and d
 Styled Components are used to deliver a responsive and modern design. Skeleton loaders and spinners provide a seamless loading experience.
 
 ## Repositories
-- **Frontend**: [Frontend Repository URL](#)
-- **Backend**: [Backend Repository URL](#)
+- **Frontend**: [Frontend Repository URL](https://github.com/mateusmaiia/countries_list)
+- **Backend**: [Backend Repository URL](https://countrieslistbackend-production.up.railway.app/)
 
 ## API Documentation
 - **Country List API**: [Nager.Date API Documentation](https://date.nager.at/swagger/index.html)
